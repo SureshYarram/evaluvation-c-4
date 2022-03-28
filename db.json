@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "suresh yarram",
+      "password": "12334",
+      "location": "kolkata",
+      "image": "https://th.bing.com/th/id/OIP.glphtq35Fv5tY0gQvEFB1AHaKn?w=203&h=292&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "movies": "movies",
+      "id": 1
+    }
+  ],
+  "meetups": [
+    {
+      "title": "Saunter Strech",
+      "location": "kolkata",
+      "date": "2022-10-22",
+      "time": "22:10",
+      "theme": "culture",
+      "description": "gdgdgdg",
+      "image": "ghsgsgs",
+      "id": 1
+    }
+  ]
+}
