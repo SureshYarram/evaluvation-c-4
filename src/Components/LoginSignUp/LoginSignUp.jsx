@@ -39,9 +39,10 @@ export const LoginSignUp = () => {
          });
          for(let i=0;i<data.length;i++){
            if(data[i].name==logindata.name && data[i].password == logindata.password ){
-              
+               return true;
            }
          }
+         return false;
    }
    console.log(data)
    console.log(formdata);
